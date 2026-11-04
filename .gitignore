@@ -1,0 +1,17 @@
+# 컴파일 결과
+*.class
+out/
+bin/
+build/
+target/
+
+# 강의 자료 원본은 올리지 않는다
+*.pdf
+
+# 편집기·OS
+.vscode/
+.idea/
+*.iml
+Thumbs.db
+desktop.ini
+.DS_Store
